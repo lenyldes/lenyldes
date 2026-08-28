@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="image.jpeg" alt="Header Banner" width="100%" />
+
   ## Рома Мищенко (@lenyldes)
   <p align="center">
     Начинающий DevOps / SRE-специалист.<br>
