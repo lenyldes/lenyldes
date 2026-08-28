@@ -14,6 +14,7 @@
 </div>
 
 > TG: https://t.me/lenyldes_s21
+> GitHub: https://github.com/lenyldes
 
 > Рассматриваю работу на позициях Junior DevOps / SRE / системного инженера.<br>
 > Готов быстро влиться в команду и решать реальные задачи.<br>
