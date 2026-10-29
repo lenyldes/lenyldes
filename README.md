@@ -3,10 +3,6 @@
   <img src="image.jpeg" alt="Header Banner" width="100%" />
 
   ## Рома Мищенко (@lenyldes)
-  <p align="center">
-    Начинающий DevOps / SRE-специалист.<br>
-    Студент «Школы 21» (образовательная платформа от Сбера).
-  </p>
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lenyldes_s21)
   [![Email](https://img.shields.io/badge/Email-roma__mishenko%40mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:roma_mishenko@mail.ru)
@@ -16,7 +12,6 @@
 > TG: https://t.me/lenyldes_s21 \
 > GitHub: https://github.com/lenyldes
 
-> Рассматриваю работу на позициях Junior DevOps / SRE / системного инженера.<br>
 > Готов быстро влиться в команду и решать реальные задачи.<br>
 > Хочу учиться и прокачивать навыки — берусь за сложные вещи и не боюсь разбираться в новом.
 
